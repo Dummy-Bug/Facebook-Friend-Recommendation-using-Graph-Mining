@@ -1,5 +1,5 @@
 # Instagram-Friend-Recommendation-using-Graph-Mining
-👫 In this challenge we were given a directed social graph, and we have to predict missing links to recommend users (Link Prediction in graph).
+👫 In this challenge we are given a directed social graph, and we have to predict missing links to recommend users (Link Prediction in graph).
 
 ## Problem statement: 
 
